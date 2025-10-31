@@ -1,11 +1,3 @@
-# AI for Business Learning Programme
-
-
-
-Welcome to your six-month journey into AI for business! This repository tracks your progress, projects, and resources.
-
-
-
 ## 📅 Programme Overview
 
 - Duration: 6 months
@@ -18,7 +10,17 @@ Welcome to your six-month journey into AI for business! This repository tracks y
 
 ## 📁 Folder Structure
 
-Each folder contains notebooks, notes, and mini-projects for the corresponding month.
+- `Month_01_AI_Basics`: AI concepts and business strategy
+
+- `Month_02_Python_Data`: Python and data analysis
+
+- `Month_03_Machine_Learning`: ML models and evaluation
+
+- `Month_04_Business_Optimization`: Forecasting, segmentation, automation
+
+- `Month_05_Ethics_Deployment`: Responsible AI and deployment
+
+- `Month_06_Capstone_Project`: Final business AI project
 
 
 
@@ -28,7 +30,7 @@ See `resources/datasets.md` and `resources/links.md`
 
 ⸻
 
-📄 resources/datasets.md
+📄 datasets.md Example
 
 # Suggested Datasets
 
@@ -43,49 +45,3 @@ See `resources/datasets.md` and `resources/links.md`
 - Customer Segmentation
 
 - Marketing Campaign
-
-⸻
-
-📄 Month_06_Capstone_Project/README.md
-
-# Capstone Project: [Your Project Title]
-
-
-
-## 🧩 Problem Statement
-
-Describe the business challenge you're solving.
-
-
-
-## 🔍 Dataset
-
-Link and description of the dataset used.
-
-
-
-## 🛠️ Methodology
-
-Outline your approach, models used, and evaluation metrics.
-
-
-
-## 🚀 Deployment
-
-Explain how you deployed the model (Flask, Colab, etc.)
-
-
-
-## 📈 Business Impact
-
-Summarize the expected or actual impact on business performance.
-
-
-
-## 📁 Files
-
-- `notebook.ipynb`: Your working notebook
-
-- `report.pdf`: Business impact report
-
-- `presentation.pptx`: Final presentation
